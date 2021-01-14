@@ -1,0 +1,14 @@
+.price{
+    color: #40af40b7;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.bag-footer{
+    background-color: white;
+    border: 0;
+}
+.bag-slide .carousel-item{
+    background-color: lightyellow;
+    border-radius: 10px;
+}
